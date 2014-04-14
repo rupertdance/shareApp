@@ -1,9 +1,11 @@
 /*MAIN CSS for SHareAPp*/
 
 .house-font{
-	font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+	/*font-family: Copperplate, "Copperplate Gothic Light", fantasy;*/
 }
+
 
 body{
 	background: url('../img/multi-colour-bg.svg');
+	background-size: 100%;
 }
